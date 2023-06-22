@@ -8,7 +8,7 @@ Meu nome é Debora
 
 ### Você pode entrar em contato comigo :mailbox
 
-debora.santos.almeida@escola.prgov.br
+debora.santos.almeida@escola.pr.gov.br
 
 @_debora142
 
