@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
-Meu nome é Marcelo Paludetto
+Meu nome é Debora
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+debora.santos.almeida@escola.prgov.br
 
-@marcelopaludetto
+@_debora142
 
 ![descrição do GIF](link GIF do Tenor)
